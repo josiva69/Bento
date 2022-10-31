@@ -1,9 +1,13 @@
 // ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
 // ╠╩╗║╣ ║║║ ║ ║ ║
-// ╚═╝╚═╝╝╚╝ ╩ ╚═╝
+// ╚═╝╚═╝╝╚╝ ╩ 
 // ┌─┐┌─┐┌┐┌┌─┐┬┌─┐┬ ┬┬─┐┌─┐┌┬┐┬┌─┐┌┐┌
 // │  │ ││││├┤ ││ ┬│ │├┬┘├─┤ │ ││ ││││
 // └─┘└─┘┘└┘└  ┴└─┘└─┘┴└─┴ ┴ ┴ ┴└─┘┘└┘
+
+
+
+
 
 const CONFIG = {
 	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
@@ -28,7 +32,8 @@ const CONFIG = {
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
+	weatherUnit: 'C', // 'F', 'C' 
+	
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
@@ -67,7 +72,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',   
+		  link: 'https://todoist.com',   
 		},
 		{
 			id: '4',
@@ -86,7 +91,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -117,6 +122,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
+			
 			name: 'Hashnode',
 			icon: 'pen-tool',
 			link: 'https://hashnode.com/',
@@ -158,24 +164,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'airplay',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'starseries',
+					link: 'https://starseriesh.blogspot.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'better anime',
+					link: 'https://betteranime.net/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'crunchyroll',
+					link: 'https://www.crunchyroll.com/pt-br/',
 				},
 			],
 		},
