@@ -129,7 +129,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'sas',
-			icon: 'book-open',
+			icon: 'library',
 			link: 'https://home.portalsas.com.br/',
 		},
 	],
@@ -141,24 +141,28 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book-open',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'manga livre',
+					link: 'https://mangalivre.net/#',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'leitor net',
+					link: 'https://leitor.net/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'reaper scan',
+					link: 'https://reaperscans.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'prisma scan',
+					link: 'https://prismascans.net/',
+				},
+				{
+					name: 'anilist',
+					link: 'https://anilist.co/',
 				},
 			],
 		},
