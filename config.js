@@ -122,9 +122,9 @@ const CONFIG = {
 		{
 			id: '5',
 			
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'zap',
+			icon: 'zap',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '6',
@@ -186,6 +186,7 @@ const CONFIG = {
 					name: 'crunchyroll',
 					link: 'https://www.crunchyroll.com/pt-br/',
 				},
+				
 			],
 		},
 	],
