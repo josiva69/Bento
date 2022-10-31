@@ -88,9 +88,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			name: 'sas',
+			icon: 'book-open',
+			link: 'https://home.portalsas.com.br/',
 		},
 	],
 
