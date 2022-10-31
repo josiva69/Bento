@@ -70,9 +70,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-		  link: 'https://todoist.com',   
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
 		},
 		{
 			id: '4',
@@ -82,10 +82,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-			
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 		{
 			id: '6',
@@ -129,9 +128,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'sas',
+			icon: 'book-open',
+			link: 'https://home.portalsas.com.br/',
 		},
 	],
 
