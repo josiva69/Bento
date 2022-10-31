@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://todoist.com',   
 		},
 		{
 			id: '4',
@@ -80,6 +80,7 @@ const CONFIG = {
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
+			
 		},
 		{
 			id: '6',
