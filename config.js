@@ -186,7 +186,28 @@ const CONFIG = {
 					name: 'crunchyroll',
 					link: 'https://www.crunchyroll.com/pt-br/',
 				},
-				
+				icon: 'airplay',
+			id: '3',
+			links: [
+				{
+					{
+		
+			               name: 'Github',
+			               link: 'https://github.com/',
+		},
+				},
+				{
+					name: 'email',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
+				},
+				{
+					name: 'twitter',
+					link: 'https://twitter.com/',
+				},
+				{
+					name: 'sas',
+					link: 'https://home.portalsas.com.br/',
+				},
 			],
 		},
 	],
